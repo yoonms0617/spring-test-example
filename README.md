@@ -34,11 +34,3 @@ Spring Boot는 테스트 목적에 따라 다양한 어노테이션을 제공한
 #### 단위 테스트
 
 `@WebMvcTest, @DataJpaTest, @RestClientTest, @JsonTest` 등
-
-## ► @SpringBootTest
-
-`@SpringBootTest`는 통합 테스트를 제공하는 기본적인 Spring Boot 테스트 어노테이션이다.
-
----
-
-#### 📌 참고
